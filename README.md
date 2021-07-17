@@ -5,10 +5,6 @@ Tarjan's algorithm finds choke points or “bridges” between two sub graphs on
 
 This notebook visualizes the discovery process by displaying each value on the grid at each update step. 
 
-Examples 
+Example  
 
-One 
-![one.gif](Generation1.gif)
-
-Two 
-![two.gif](Generation1.gif) 
+![two.gif](two.gif) 
